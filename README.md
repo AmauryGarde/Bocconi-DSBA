@@ -1,9 +1,9 @@
 # Bocconi-DSBA
 >*Projects undertaken during the Data Science & Business Analytics Bocconi MSc.*
 
-##Study Plan:
+## Study Plan:
 
-###Year 1:
+### Year 1:
 - Main Topics:
 
   - Computer Science
@@ -12,13 +12,13 @@
   - Business Analytics
   - Marketing and Innovation
 
-- Business Analytics track (choosen Major):
+- Business Analytics track (chosen Major):
 >*The Business Analytics track focuses on Natural Language Processing, mathematical modeling and simulations, Finance, and Social Network Analysis.*
 
   - Natural Language Processing
   - Simulation and Modeling 
 
-###Year 2:
+### Year 2:
 
 - 2 electives
 
