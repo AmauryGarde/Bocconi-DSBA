@@ -31,6 +31,6 @@
 - Seminars for the development of behavioral abilities 
 >*e.g. teamwork; assertiveness and managing interpersonal relationships; public speaking; managing relationships in multicultural situations.*
 - Internship
->*Full-time 8 weeks or Part-time 11 weeks*
+  - *Done*: AXA GIE - P&C Retail Pricing Junior Analyst
 - Foreign Language B1 (Italian)
-- Thesis
+- Thesis --> T.B.D.
