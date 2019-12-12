@@ -21,6 +21,8 @@
 ### Year 2:
 
 - 2 electives
+  - Applied Numerical Finance
+  - Machine Learning 2 (a.k.a. Advanced ML)
 
 - Business Analytics track:
   - Finance with Big Data
